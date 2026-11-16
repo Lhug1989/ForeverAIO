@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Forever AIO
+## Notes: Auto-equips upgrades, picks the best quest reward and asks nearby players for buffs. Stat weights from Forever Leveling BiS are built in; no other addon is needed. Options: /faio
+## Author: Lhug1989
+## Version: 1.0.0
+## SavedVariables: ForeverAIODB
+
+Core.lua
+Data\Weights.lua
+Spec.lua
+Score.lua
+AutoGear.lua
+BuffAsk.lua
